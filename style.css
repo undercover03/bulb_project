@@ -1,0 +1,12 @@
+img{
+    height: 250px;
+    width: 300px;
+    margin-left: 500px;
+}
+.bulb{
+    margin-left: 585px;
+    margin-top: 20px;
+}
+body{
+    background: linear-gradient(to left, red, orange);
+}
